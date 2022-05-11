@@ -27,13 +27,6 @@ hsh main.c shell.c test_ls_2
 hsh main.c shell.c test_ls_2
 $
 ```
----
-
-## Example
-
-![example](https://media.giphy.com/media/cC9jj6fr8m5SZ56Z2l/giphy.gif)
-
----
 
 ## Files
 
